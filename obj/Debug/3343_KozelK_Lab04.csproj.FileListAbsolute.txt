@@ -1,0 +1,32 @@
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\northwnd.mdf
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\northwnd_log.ldf
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\3343_KozelK_Lab04.exe.config
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\3343_KozelK_Lab04.exe
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\3343_KozelK_Lab04.pdb
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.csproj.AssemblyReference.cache
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.CustomerOrders.resources
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.northwindSelection.resources
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.Properties.Resources.resources
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.csproj.GenerateResource.cache
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.csproj.CoreCompileInputs.cache
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.exe
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.pdb
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.productsFilteredForm.resources
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.CategoryUnbound.resources
+C:\Users\kozel\source\repos\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.EmployeeTerritories.resources
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\northwnd.mdf
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\northwnd_log.ldf
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\3343_KozelK_Lab04.exe.config
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\3343_KozelK_Lab04.exe
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\bin\Debug\3343_KozelK_Lab04.pdb
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.csproj.AssemblyReference.cache
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.CategoryUnbound.resources
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.CustomerOrders.resources
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.EmployeeTerritories.resources
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.northwindSelection.resources
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.productsFilteredForm.resources
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\_3343_KozelK_Lab04.Properties.Resources.resources
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.csproj.GenerateResource.cache
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.csproj.CoreCompileInputs.cache
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.exe
+C:\Users\kozel\OneDrive\Desktop\Tarleton Classes\C# Advanced 3334\Labs\3343_KozelK_Lab04\3343_KozelK_Lab04\obj\Debug\3343_KozelK_Lab04.pdb
